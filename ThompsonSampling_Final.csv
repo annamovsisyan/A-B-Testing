@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+An Arm with 1 Win Rate,0.0,ThompsonSampling
+An Arm with 2 Win Rate,2.00541164909927,ThompsonSampling
+An Arm with 3 Win Rate,3.013209726878944,ThompsonSampling
+An Arm with 4 Win Rate,3.992428223563577,ThompsonSampling
